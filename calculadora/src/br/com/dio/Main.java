@@ -4,7 +4,7 @@ import br.com.dio.models.Calculadora;
 
 import java.util.Scanner;
 
-public class ExercicioCalculadora {
+public class Main {
     public static void main(String[]args){
         //Importando as classes
         Scanner teclado = new Scanner(System.in);
