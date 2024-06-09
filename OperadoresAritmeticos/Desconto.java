@@ -11,7 +11,7 @@ public class Desconto {
         float preco = scan.nextFloat();
 
         //desconto de 5%
-        float desconto = preco - preco * 0.05f;
+        float desconto = preco * 0.95f;
 
         System.out.println(String.format("O produto que custava R$%.2f com desconto de 5%% vai custar R$%.2f", preco, desconto));
 
