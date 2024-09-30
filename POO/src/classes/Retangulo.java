@@ -1,8 +1,8 @@
 package classes;
 
-import interfaces.IFormaGeometrica;
+import interfaces.FormaGeometrica;
 
-public class Retangulo implements IFormaGeometrica {
+public class Retangulo implements FormaGeometrica {
 
     private float altura;
     private float largura;

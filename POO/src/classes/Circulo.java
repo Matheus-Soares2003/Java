@@ -1,8 +1,8 @@
 package classes;
 
-import interfaces.IFormaGeometrica;
+import interfaces.FormaGeometrica;
 
-public class Circulo implements IFormaGeometrica {
+public class Circulo implements FormaGeometrica {
 
     private float raio;
     private final float PI = 3.14f;

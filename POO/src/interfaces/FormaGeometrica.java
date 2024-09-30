@@ -1,5 +1,5 @@
 package interfaces;
 
-public interface IFormaGeometrica {
+public interface FormaGeometrica {
     float calcularArea();
 }
